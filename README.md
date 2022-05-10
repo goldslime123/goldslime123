@@ -3,9 +3,9 @@
 - 📫 Email: kenji188@gmail.com
 
 ### GitHub Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldslime123&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldslime123&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldslime123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldslime123&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### SIT Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goldslime123&repo=RoboticCar&theme=dark)](https://github.com/goldslime123/RoboticCar)
