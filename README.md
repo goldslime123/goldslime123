@@ -1,18 +1,7 @@
 ### Hi👋
-- 🌱 Current: Studying Computer Science at SIT Glasgow
+- 🌱 Current: Studying Computer Science at Singapore Institute of Technology, Glassgow
 - 📫 Email: kenji188@gmail.com
 
-### GitHub Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldslime123&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldslime123&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### SIT Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goldslime123&repo=RoboticCar&theme=dark)](https://github.com/goldslime123/RoboticCar)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goldslime123&repo=MLNeuron&theme=dark)](https://github.com/goldslime123/MLNeuron)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goldslime123&repo=OOPWebScrapper&theme=dark)](https://github.com/goldslime123/OOPWebScrapper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goldslime123&repo=JourneyPlanner&theme=dark)](https://github.com/goldslime123/JourneyPlanner)
 
 
 <!-- 
