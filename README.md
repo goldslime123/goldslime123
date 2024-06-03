@@ -1,5 +1,4 @@
 ### Hi👋
-- 🌱 Current: Studying Computer Science at Singapore Institute of Technology, Glassgow
 - 📫 Email: kenji188@gmail.com
 
 
